@@ -1,4 +1,4 @@
-#Amazon Clone
+# Amazon Clone
 This is a front-end clone of the Amazon website, built using HTML and CSS.
 The project replicates the layout and design of the Amazon homepage, featuring a responsive design that adapts to various screen sizes.
 
